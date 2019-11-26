@@ -1,0 +1,14 @@
+E:\Protecso\mysqlconnector\bin\Debug\netcoreapp2.1\mysqlconnector.deps.json
+E:\Protecso\mysqlconnector\bin\Debug\netcoreapp2.1\mysqlconnector.runtimeconfig.json
+E:\Protecso\mysqlconnector\bin\Debug\netcoreapp2.1\mysqlconnector.runtimeconfig.dev.json
+e:\Protecso\mysqlconnector\bin\Debug\netcoreapp2.1\mysqlconnector.dll
+e:\Protecso\mysqlconnector\bin\Debug\netcoreapp2.1\mysqlconnector.pdb
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.csprojAssemblyReference.cache
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.csproj.CoreCompileInputs.cache
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.RazorAssemblyInfo.cache
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.RazorAssemblyInfo.cs
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.AssemblyInfoInputs.cache
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.AssemblyInfo.cs
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.RazorTargetAssemblyInfo.cache
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.dll
+e:\Protecso\mysqlconnector\obj\Debug\netcoreapp2.1\mysqlconnector.pdb
